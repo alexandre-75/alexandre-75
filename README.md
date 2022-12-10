@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexandre-75
 - 👀 I’m interested in development
-- 🌱 I’m currently learning Pyhton, HTML5, CSS3, JavaScript
+- 🌱 I’m currently learning Python, HTML5, CSS3, JavaScript
 - 💞️ I’m looking to collaborate on small simple projects
 - 📫 How to reach me : sassy.alexandre@gmail.com
 
